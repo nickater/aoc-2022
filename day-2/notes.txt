@@ -1,0 +1,7 @@
+A = Rock =     X | 1 Point
+B = Paper =    Y | 2 Points
+C = Scissors = Z | 3 Points
+
+X = Lose
+Y = Draw
+Z = Win
